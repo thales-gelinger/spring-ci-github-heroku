@@ -28,4 +28,4 @@ jobs:
         run: git fetch --unshallow origin
 
       - name: Deploy to Heroku
-        run: git push heroku master -f
+        run: git push heroku HEAD:master -f

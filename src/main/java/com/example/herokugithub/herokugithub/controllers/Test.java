@@ -11,7 +11,7 @@ public class Test {
 
     @GetMapping
     public String helloWorld(String[] args) {
-        return "Hello World";
+        return "Hello Teste";
     }
 
 }

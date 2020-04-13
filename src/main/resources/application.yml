@@ -1,2 +1,8 @@
 server:
   port: 8100
+
+spring:
+  social:
+    facebook:
+        app-id: 2815501721902828
+        app-secret: 0bef4babf1e19122f53fedf120f1f274
